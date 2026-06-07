@@ -1,0 +1,1 @@
+[JD_FETCH_FAILED: Could not retrieve job posting content. HTTP 0. timeout. Evaluate based on URL and company signals only.]

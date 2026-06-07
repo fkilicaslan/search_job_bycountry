@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fatih Kilicaslan — Cover Letter — {{COMPANY}}</title>
+<style>
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11.5px; line-height: 1.7; color: #1a1a1a; background: #ffffff; }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; padding: 44px 52px; }
+
+  /* --- Header: recipient left, sender right --- */
+  .header-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 28px; }
+  .recipient { font-size: 11.5px; line-height: 1.7; }
+  .recipient strong { font-weight: 700; }
+  .sender { text-align: right; font-size: 11.5px; line-height: 1.7; }
+  .sender strong { font-weight: 700; }
+
+  /* --- Date --- */
+  .date-line { text-align: right; font-size: 11.5px; margin-bottom: 24px; }
+
+  /* --- Subject --- */
+  .subject { font-size: 11.5px; font-weight: 700; margin-bottom: 20px; }
+
+  /* --- Body --- */
+  .body p { margin-bottom: 14px; font-size: 11.5px; line-height: 1.75; color: #1a1a1a; text-align: justify; }
+
+  /* --- Closing --- */
+  .closing { margin-top: 24px; font-size: 11.5px; line-height: 1.7; }
+  .closing .sign-name { font-weight: 700; margin-top: 4px; }
+
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header-row">
+    <div class="recipient">
+      <strong>{{COMPANY}}</strong><br>
+      {{COMPANY_TEAM}}<br>
+      {{COMPANY_CITY}}
+    </div>
+    <div class="sender">
+      <strong>Fatih Kilicaslan</strong><br>
+      Rieflerstrasse 6<br>
+      12307 Berlin, Germany<br>
+      +49 176 754 18 961<br>
+      fth.kilicaslan@gmail.com
+    </div>
+  </div>
+
+  <div class="date-line">Berlin, {{DATE}}</div>
+
+  <div class="subject">Re: {{ROLE_TITLE}}</div>
+
+  <div class="body">
+    <p>{{SALUTATION}}</p>
+
+    {{BODY_PARAGRAPHS}}
+
+    <p>Thank you for the consideration. I would be glad to discuss how this might fit.</p>
+  </div>
+
+  <div class="closing">
+    Kind regards,<br>
+    <span class="sign-name">Fatih Kilicaslan</span>
+  </div>
+
+</div>
+</body>
+</html>

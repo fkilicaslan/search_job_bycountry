@@ -1,0 +1,1 @@
+[JD_FETCH_FAILED: Could not retrieve job posting content. HTTP 403. Login wall or empty response. Evaluate based on URL and company signals only.]

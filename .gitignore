@@ -1,0 +1,26 @@
+# Root-level ignores (career-ops/ has its own .gitignore for most personal data)
+
+# Claude Code local memory and settings
+.claude/
+.playwright-mcp/
+
+# Personal corpus and context (narrative, SWOT, interview stories, CV corpus)
+career-ops/data/corpus/
+career-ops/data/context/
+career-ops/data/pipeline_tier1.md
+career-ops/data/all-jobs.xlsx
+career-ops/data/bullet-index.json
+career-ops/data/company-lists/
+
+# Personal CV corpus stored in modes
+career-ops/modes/_profile.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.vscode/
+.idea/

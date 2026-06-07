@@ -1,0 +1,99 @@
+# portals.template.yml — Minimal bootstrap template
+#
+# This file is written by setup.mjs. You can also fill it manually:
+#   cp templates/portals.template.yml portals.yml
+#   then edit the {{PLACEHOLDERS}} below.
+#
+# The full template with 50+ pre-configured companies lives at:
+#   templates/portals.example.yml
+# Copy that instead if you want a batteries-included starting point.
+
+# ── Title filter ──────────────────────────────────────────────────────────────
+# At least ONE positive keyword must appear in the job title.
+# ANY negative keyword disqualifies the title (case-insensitive, substring match).
+
+title_filter:
+  positive:
+    # [CUSTOMIZE] Replace with YOUR target role keywords.
+    # setup.mjs derives these from config/profile.yml → target_roles.primary
+    - "Account Executive"
+    - "Sales Manager"
+    - "Business Development"
+    - "Partnerships Manager"
+    - "Head of Sales"
+  negative:
+    # Junior / wrong-level
+    - "Junior"
+    - "Intern"
+    - "Trainee"
+    - "SDR"
+    - "BDR"
+    # Wrong tech stack (add your own exclusions here)
+    - ".NET"
+    - "iOS"
+    - "Android"
+  seniority_boost:
+    # These prefixes add relevance signal (not required to match).
+    - "Senior"
+    - "Lead"
+    - "Head"
+    - "Director"
+    - "VP"
+    - "Principal"
+
+# ── Board searches (Bright Data) ──────────────────────────────────────────────
+# Drives scan-boards.mjs — LinkedIn via URL collection, Indeed via keyword search.
+# setup.mjs fills location, country, domain from config/profile.yml → location.
+
+board_searches:
+
+  - site: linkedin
+    dataset_id_env: BRIGHTDATA_LINKEDIN_DATASET_ID
+    enabled: true
+    location: "{{LOCATION}}"          # e.g. "Germany" — set by setup.mjs
+    keywords:
+      - "Business Development Manager"
+      - "Account Executive"
+      - "Head of Sales"
+
+  - site: indeed
+    dataset_id_env: BRIGHTDATA_INDEED_DATASET_ID
+    enabled: true
+    location: "{{CITY}}"             # e.g. "Berlin" — set by setup.mjs
+    country: "{{COUNTRY_CODE}}"      # e.g. "DE" — set by setup.mjs
+    domain: "{{INDEED_DOMAIN}}"      # e.g. "de.indeed.com" — set by setup.mjs
+    keywords:
+      - "Business Development Manager"
+      - "Account Executive"
+      - "Head of Sales"
+
+  - site: stepstone
+    enabled: false                   # enable if targeting DACH
+    searches:
+      - keywords: "Business Development Manager"
+        location: "{{CITY}}"
+      - keywords: "Account Executive"
+        location: "{{CITY}}"
+    results_per_search: 30
+
+# ── Tracked companies ─────────────────────────────────────────────────────────
+# setup.mjs seeds this from data/company-lists/{country}/saas-ai.yml.
+# Add or remove entries freely — this is YOUR list.
+#
+# Required fields: name, careers_url
+# Optional:  scan_method (playwright|websearch|greenhouse_api)
+#            api          (Greenhouse boards-api URL for direct JSON)
+#            scan_query   (site: search string for websearch method)
+#            notes        (freeform context)
+#            enabled      (false to skip without deleting)
+#
+# Example:
+#   - name: Acme Corp
+#     careers_url: https://job-boards.greenhouse.io/acmecorp
+#     api: https://boards-api.greenhouse.io/v1/boards/acmecorp/jobs
+#     notes: "Berlin HQ. Series B AI platform."
+#     enabled: true
+
+tracked_companies: []
+# ^ setup.mjs replaces this with a country-specific starter list.
+# You can also copy entries from templates/portals.example.yml.

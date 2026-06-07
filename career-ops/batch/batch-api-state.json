@@ -1,0 +1,2241 @@
+{
+  "batch_id": "msgbatch_01Aatw1JhAjsrH35A5pbKUS8",
+  "submitted_at": "2026-05-12T14:41:29.277Z",
+  "model": "claude-sonnet-4-6",
+  "item_count": 319,
+  "items": {
+    "524": {
+      "id": "524",
+      "url": "https://jobs.ashbyhq.com/bland/f67ff0f0-455d-47cd-b384-e78c65ec43c4",
+      "source": "pipeline",
+      "notes": "Bland AI | Head of Partnerships",
+      "report_num": "1077"
+    },
+    "525": {
+      "id": "525",
+      "url": "https://jobs.ashbyhq.com/bland/56f3fd9f-4018-4bbf-9208-4831449b4792",
+      "source": "pipeline",
+      "notes": "Bland AI | Mid-Market Account Executive",
+      "report_num": "1078"
+    },
+    "526": {
+      "id": "526",
+      "url": "https://jobs.ashbyhq.com/bland/dc26ae53-bd0f-4e58-9e01-dea3777c0830",
+      "source": "pipeline",
+      "notes": "Bland AI | Enterprise Account Executive",
+      "report_num": "1079"
+    },
+    "527": {
+      "id": "527",
+      "url": "https://jobs.ashbyhq.com/vapi/50d82ec9-720a-4aea-9a2d-c502786f737e",
+      "source": "pipeline",
+      "notes": "Vapi | Enterprise Account Executive",
+      "report_num": "1080"
+    },
+    "528": {
+      "id": "528",
+      "url": "https://jobs.ashbyhq.com/vapi/e7c7a40d-4fa9-4f26-8517-343c2e0daa8b",
+      "source": "pipeline",
+      "notes": "Vapi | Mid Market Account Executive",
+      "report_num": "1081"
+    },
+    "529": {
+      "id": "529",
+      "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4802753101",
+      "source": "pipeline",
+      "notes": "PolyAI | Enterprise Account Executive",
+      "report_num": "1082"
+    },
+    "530": {
+      "id": "530",
+      "url": "https://jobs.ashbyhq.com/deepgram/7fe7bd7d-b337-4337-b459-a892be80789e",
+      "source": "pipeline",
+      "notes": "Deepgram | Strategic Account Executive",
+      "report_num": "1083"
+    },
+    "531": {
+      "id": "531",
+      "url": "https://jobs.ashbyhq.com/deepgram/9e9ceef6-e22c-4157-906c-91b2da8e22ae",
+      "source": "pipeline",
+      "notes": "Deepgram | Enterprise Account Executive - AI Platform (B2B Saas/Restaurant Tech Vertical)",
+      "report_num": "1084"
+    },
+    "532": {
+      "id": "532",
+      "url": "https://jobs.ashbyhq.com/deepgram/91ea80f4-cc54-4c52-8ef5-d2c2b2764640",
+      "source": "pipeline",
+      "notes": "Deepgram | Corporate Account Executive",
+      "report_num": "1085"
+    },
+    "533": {
+      "id": "533",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4858437101",
+      "source": "pipeline",
+      "notes": "Parloa | Business Development Executive (Spain)",
+      "report_num": "1086"
+    },
+    "534": {
+      "id": "534",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4793846101",
+      "source": "pipeline",
+      "notes": "Parloa | Enterprise Account Executive - Turkey",
+      "report_num": "1087"
+    },
+    "535": {
+      "id": "535",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4784741101",
+      "source": "pipeline",
+      "notes": "Parloa | GSI Partnerships Manager -  (Conversational AI & Agentic AI)",
+      "report_num": "1088"
+    },
+    "536": {
+      "id": "536",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4856054101",
+      "source": "pipeline",
+      "notes": "Parloa | Principal Partnerships Manager France",
+      "report_num": "1089"
+    },
+    "537": {
+      "id": "537",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4811044101",
+      "source": "pipeline",
+      "notes": "Parloa | Principal Partnerships Manager - Switzerland & Eastern Europe",
+      "report_num": "1090"
+    },
+    "538": {
+      "id": "538",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4793822101",
+      "source": "pipeline",
+      "notes": "Parloa | RVP Sales - Eastern Europe & Alps",
+      "report_num": "1091"
+    },
+    "539": {
+      "id": "539",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4836055101",
+      "source": "pipeline",
+      "notes": "Parloa | Senior Channel Partnerships Manager",
+      "report_num": "1092"
+    },
+    "540": {
+      "id": "540",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4771240101",
+      "source": "pipeline",
+      "notes": "Parloa | Senior Partnerships Manager - UKI and Northern Europe",
+      "report_num": "1093"
+    },
+    "541": {
+      "id": "541",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4836057101",
+      "source": "pipeline",
+      "notes": "Parloa | Services Partnerships Manager",
+      "report_num": "1094"
+    },
+    "542": {
+      "id": "542",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4843927101",
+      "source": "pipeline",
+      "notes": "Parloa | Team Lead, Business Development",
+      "report_num": "1095"
+    },
+    "543": {
+      "id": "543",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf",
+      "source": "pipeline",
+      "notes": "ElevenLabs | Enterprise Account Executive - Spain",
+      "report_num": "1096"
+    },
+    "544": {
+      "id": "544",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/38c67306-4f88-452a-b956-a941e4c2e65e",
+      "source": "pipeline",
+      "notes": "ElevenLabs | Enterprise Account Executive - France",
+      "report_num": "1097"
+    },
+    "545": {
+      "id": "545",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d961d827-4529-4c70-9eff-c521b8923744",
+      "source": "pipeline",
+      "notes": "ElevenLabs | Account Executive - UK/I - Enterprise",
+      "report_num": "1098"
+    },
+    "546": {
+      "id": "546",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/979a591e-8767-4141-aadb-357ec1ce96df",
+      "source": "pipeline",
+      "notes": "ElevenLabs | Account Executive - UK/I - Mid-Market",
+      "report_num": "1099"
+    },
+    "547": {
+      "id": "547",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b16fee34-782a-47e3-85f4-7b3d683fc938",
+      "source": "pipeline",
+      "notes": "ElevenLabs | Account Executive - DACH - Commercial",
+      "report_num": "1100"
+    },
+    "548": {
+      "id": "548",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7254820",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Commercial",
+      "report_num": "1101"
+    },
+    "549": {
+      "id": "549",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7408013",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Commercial",
+      "report_num": "1102"
+    },
+    "550": {
+      "id": "550",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7591182",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Commercial - French Speaking",
+      "report_num": "1103"
+    },
+    "551": {
+      "id": "551",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7583124",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Emerging AI Products",
+      "report_num": "1104"
+    },
+    "552": {
+      "id": "552",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7838601",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Enterprise",
+      "report_num": "1105"
+    },
+    "553": {
+      "id": "553",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7296732",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive (Existing Business), Commercial",
+      "report_num": "1106"
+    },
+    "554": {
+      "id": "554",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7335309",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, MidMarket",
+      "report_num": "1107"
+    },
+    "555": {
+      "id": "555",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7345114",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Mid-Market",
+      "report_num": "1108"
+    },
+    "556": {
+      "id": "556",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/6998800",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Senior MidMarket",
+      "report_num": "1109"
+    },
+    "557": {
+      "id": "557",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161980008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (French Speaking)",
+      "report_num": "1110"
+    },
+    "558": {
+      "id": "558",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "report_num": "1111"
+    },
+    "559": {
+      "id": "559",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161986008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)",
+      "report_num": "1112"
+    },
+    "560": {
+      "id": "560",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101378008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Public Sector",
+      "report_num": "1113"
+    },
+    "561": {
+      "id": "561",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Startups",
+      "report_num": "1114"
+    },
+    "562": {
+      "id": "562",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055488008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer",
+      "report_num": "1115"
+    },
+    "563": {
+      "id": "563",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116274008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer",
+      "report_num": "1116"
+    },
+    "564": {
+      "id": "564",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer, Beneficial Deployments",
+      "report_num": "1117"
+    },
+    "565": {
+      "id": "565",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer, Enterprise Tech",
+      "report_num": "1118"
+    },
+    "566": {
+      "id": "566",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5111942008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+      "report_num": "1119"
+    },
+    "567": {
+      "id": "567",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
+      "source": "pipeline",
+      "notes": "Anthropic | Emerging Account Executive, Startups",
+      "report_num": "1120"
+    },
+    "568": {
+      "id": "568",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5118189008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, DOD/IC",
+      "report_num": "1121"
+    },
+    "569": {
+      "id": "569",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5194670008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Civilian Sales",
+      "report_num": "1122"
+    },
+    "570": {
+      "id": "570",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196023008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior",
+      "report_num": "1123"
+    },
+    "571": {
+      "id": "571",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196029008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Civilian Sales - Education & Workforce",
+      "report_num": "1124"
+    },
+    "572": {
+      "id": "572",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196015008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Civilian Sales - State & International",
+      "report_num": "1125"
+    },
+    "573": {
+      "id": "573",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196014008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Civilian Sales - Transport & Land",
+      "report_num": "1126"
+    },
+    "574": {
+      "id": "574",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5160180008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Federal Partners Sales",
+      "report_num": "1127"
+    },
+    "575": {
+      "id": "575",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104753008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Financial Services & Insurance",
+      "report_num": "1128"
+    },
+    "576": {
+      "id": "576",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Industries",
+      "report_num": "1129"
+    },
+    "577": {
+      "id": "577",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104760008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Manufacturing & Automotive",
+      "report_num": "1130"
+    },
+    "578": {
+      "id": "578",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104754008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Retail",
+      "report_num": "1131"
+    },
+    "579": {
+      "id": "579",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5102665008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, State & Local Sales",
+      "report_num": "1132"
+    },
+    "580": {
+      "id": "580",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5181219008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, State & Local Sales - North East",
+      "report_num": "1133"
+    },
+    "581": {
+      "id": "581",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108347008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, State & Local Sales - State of California",
+      "report_num": "1134"
+    },
+    "582": {
+      "id": "582",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104756008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, System Integrators",
+      "report_num": "1135"
+    },
+    "583": {
+      "id": "583",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Tech",
+      "report_num": "1136"
+    },
+    "584": {
+      "id": "584",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5096041008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Telecommunications",
+      "report_num": "1137"
+    },
+    "585": {
+      "id": "585",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104755008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Transportation & Utilities",
+      "report_num": "1138"
+    },
+    "586": {
+      "id": "586",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+      "source": "pipeline",
+      "notes": "Anthropic | Growth Account Executive, Startups",
+      "report_num": "1139"
+    },
+    "587": {
+      "id": "587",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042447008",
+      "source": "pipeline",
+      "notes": "Anthropic | Manager, Account Executive (Growth Startup Sales)",
+      "report_num": "1140"
+    },
+    "588": {
+      "id": "588",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+      "source": "pipeline",
+      "notes": "Anthropic | Manager, Account Executive (Startups)",
+      "report_num": "1141"
+    },
+    "589": {
+      "id": "589",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "source": "pipeline",
+      "notes": "Anthropic | Manager, Growth Account Executive (Startups)",
+      "report_num": "1142"
+    },
+    "590": {
+      "id": "590",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931772008",
+      "source": "pipeline",
+      "notes": "Anthropic | Mid-Market Account Executive, Industries",
+      "report_num": "1143"
+    },
+    "591": {
+      "id": "591",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5077996008",
+      "source": "pipeline",
+      "notes": "Anthropic | Mid-Market Account Executive, Tech",
+      "report_num": "1144"
+    },
+    "592": {
+      "id": "592",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163273008",
+      "source": "pipeline",
+      "notes": "Anthropic | [Munich] Enterprise Account Executive, Industries",
+      "report_num": "1145"
+    },
+    "593": {
+      "id": "593",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082402008",
+      "source": "pipeline",
+      "notes": "Anthropic | Partner Alliance Manager – Regional & Specialist Systems Integrators",
+      "report_num": "1146"
+    },
+    "594": {
+      "id": "594",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5171950008",
+      "source": "pipeline",
+      "notes": "Anthropic | Partner Sales Manager, Systems Integrators",
+      "report_num": "1147"
+    },
+    "595": {
+      "id": "595",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079188008",
+      "source": "pipeline",
+      "notes": "Anthropic | Sales Director, Enterprise",
+      "report_num": "1148"
+    },
+    "596": {
+      "id": "596",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5182887008",
+      "source": "pipeline",
+      "notes": "Anthropic | Scaled Enterprise Account Executive, Industries",
+      "report_num": "1149"
+    },
+    "597": {
+      "id": "597",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4978280008",
+      "source": "pipeline",
+      "notes": "Anthropic | Startup Account Executive - UKI",
+      "report_num": "1150"
+    },
+    "598": {
+      "id": "598",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "source": "pipeline",
+      "notes": "Anthropic | Strategic Account Executive, Digital Native Business & Cybersecurity",
+      "report_num": "1151"
+    },
+    "599": {
+      "id": "599",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176036008",
+      "source": "pipeline",
+      "notes": "Anthropic | Strategic Account Executive, GSI",
+      "report_num": "1152"
+    },
+    "600": {
+      "id": "600",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "source": "pipeline",
+      "notes": "Anthropic | Strategic Account Executive, Insurance",
+      "report_num": "1153"
+    },
+    "601": {
+      "id": "601",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5109135008",
+      "source": "pipeline",
+      "notes": "Anthropic | Strategic Account Executive, Tech",
+      "report_num": "1154"
+    },
+    "602": {
+      "id": "602",
+      "url": "https://jobs.ashbyhq.com/sierra/41e66706-b647-4ab1-8c7f-8f2975babba7",
+      "source": "pipeline",
+      "notes": "Sierra | Sales Director",
+      "report_num": "1155"
+    },
+    "603": {
+      "id": "603",
+      "url": "https://jobs.ashbyhq.com/sierra/9501ffa2-b433-4f51-b7f0-d8e53e37442d",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Account Executive, Europe",
+      "report_num": "1156"
+    },
+    "604": {
+      "id": "604",
+      "url": "https://jobs.ashbyhq.com/sierra/9f5b273f-1604-4b5b-bbbb-13cf0af35150",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Account Executive, Europe (Italian speaking)",
+      "report_num": "1157"
+    },
+    "605": {
+      "id": "605",
+      "url": "https://jobs.ashbyhq.com/sierra/ef109d91-43de-4f96-94e5-fac6f1d8c8e1",
+      "source": "pipeline",
+      "notes": "Sierra | Sales Director, Spain",
+      "report_num": "1158"
+    },
+    "606": {
+      "id": "606",
+      "url": "https://jobs.ashbyhq.com/sierra/d4a8ec61-f97d-4010-9505-0fc2d8b00167",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Account Executive",
+      "report_num": "1159"
+    },
+    "607": {
+      "id": "607",
+      "url": "https://jobs.ashbyhq.com/sierra/fe103c28-bc7e-433e-ad82-90a1655cba32",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Account Executive, Europe (Arabic speaking)",
+      "report_num": "1160"
+    },
+    "608": {
+      "id": "608",
+      "url": "https://jobs.ashbyhq.com/sierra/a9e0b5c2-3b06-4dba-94eb-ca8fb057d70c",
+      "source": "pipeline",
+      "notes": "Sierra | Sales Director, DACH",
+      "report_num": "1161"
+    },
+    "609": {
+      "id": "609",
+      "url": "https://jobs.ashbyhq.com/sierra/a4376f1f-10bd-4804-899e-4b98b8245198",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Sales Leader",
+      "report_num": "1162"
+    },
+    "610": {
+      "id": "610",
+      "url": "https://jobs.ashbyhq.com/decagon/67c794bd-e423-44b2-8b80-d7b759994cde",
+      "source": "pipeline",
+      "notes": "Decagon | Enterprise Account Executive",
+      "report_num": "1163"
+    },
+    "611": {
+      "id": "611",
+      "url": "https://jobs.ashbyhq.com/decagon/a60722ec-7a38-4d1b-a603-568f1cec92c4",
+      "source": "pipeline",
+      "notes": "Decagon | Enterprise Account Executive",
+      "report_num": "1164"
+    },
+    "612": {
+      "id": "612",
+      "url": "https://jobs.ashbyhq.com/decagon/e619e258-a279-437f-8bb5-4390e79a8fa0",
+      "source": "pipeline",
+      "notes": "Decagon | Senior Strategic Alliances & Partnerships Manager",
+      "report_num": "1165"
+    },
+    "613": {
+      "id": "613",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/5830266004",
+      "source": "pipeline",
+      "notes": "Arize AI | Enterprise Account Executive, APJ",
+      "report_num": "1166"
+    },
+    "614": {
+      "id": "614",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/5875970004",
+      "source": "pipeline",
+      "notes": "Arize AI | Enterprise Account Executive, EMEA",
+      "report_num": "1167"
+    },
+    "615": {
+      "id": "615",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/5985810004",
+      "source": "pipeline",
+      "notes": "Arize AI | Mid-Market Account Executive (Bay Area)",
+      "report_num": "1168"
+    },
+    "616": {
+      "id": "616",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4689938005",
+      "source": "pipeline",
+      "notes": "Glean | Commercial Account Executive, East",
+      "report_num": "1169"
+    },
+    "617": {
+      "id": "617",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4654572005",
+      "source": "pipeline",
+      "notes": "Glean | Commercial Account Executive, UKI",
+      "report_num": "1170"
+    },
+    "618": {
+      "id": "618",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4692171005",
+      "source": "pipeline",
+      "notes": "Glean | Corporate Account Executive",
+      "report_num": "1171"
+    },
+    "619": {
+      "id": "619",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4673564005",
+      "source": "pipeline",
+      "notes": "Glean | Corporate Account Executive, Nashville",
+      "report_num": "1172"
+    },
+    "620": {
+      "id": "620",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693792005",
+      "source": "pipeline",
+      "notes": "Glean | Corporate Account Executive, Nashville - Install Base",
+      "report_num": "1173"
+    },
+    "621": {
+      "id": "621",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693862005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive",
+      "report_num": "1174"
+    },
+    "622": {
+      "id": "622",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4687412005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, Carolinas",
+      "report_num": "1175"
+    },
+    "623": {
+      "id": "623",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595895005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, DACH",
+      "report_num": "1176"
+    },
+    "624": {
+      "id": "624",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4680473005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, Mid-Atlantic",
+      "report_num": "1177"
+    },
+    "625": {
+      "id": "625",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4665752005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, North Central",
+      "report_num": "1178"
+    },
+    "626": {
+      "id": "626",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615635005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, Ohio Valley",
+      "report_num": "1179"
+    },
+    "627": {
+      "id": "627",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4652361005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive, UKI",
+      "report_num": "1180"
+    },
+    "628": {
+      "id": "628",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4685464005",
+      "source": "pipeline",
+      "notes": "Glean | Partner Sales Manager",
+      "report_num": "1181"
+    },
+    "629": {
+      "id": "629",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4673788005",
+      "source": "pipeline",
+      "notes": "Glean | Private Equity Partnerships Manager",
+      "report_num": "1182"
+    },
+    "630": {
+      "id": "630",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4665150005",
+      "source": "pipeline",
+      "notes": "Glean | Sr. Cloud Partner Sales Manager",
+      "report_num": "1183"
+    },
+    "631": {
+      "id": "631",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4633563005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive",
+      "report_num": "1184"
+    },
+    "632": {
+      "id": "632",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4676728005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive, DACH",
+      "report_num": "1185"
+    },
+    "633": {
+      "id": "633",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4669991005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive, New England",
+      "report_num": "1186"
+    },
+    "634": {
+      "id": "634",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4681664005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive, North Central",
+      "report_num": "1187"
+    },
+    "635": {
+      "id": "635",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4670095005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive, Southeast",
+      "report_num": "1188"
+    },
+    "636": {
+      "id": "636",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4588653005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive, Texas",
+      "report_num": "1189"
+    },
+    "637": {
+      "id": "637",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694252005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Federal Account Executive, Public Sector (DIB)",
+      "report_num": "1190"
+    },
+    "638": {
+      "id": "638",
+      "url": "https://job-boards.greenhouse.io/runpod/jobs/5115139008",
+      "source": "pipeline",
+      "notes": "RunPod | Head of Partnerships",
+      "report_num": "1191"
+    },
+    "639": {
+      "id": "639",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8403127002",
+      "source": "pipeline",
+      "notes": "Airtable | Account Executive, Strategic Accounts",
+      "report_num": "1192"
+    },
+    "640": {
+      "id": "640",
+      "url": "https://jobs.ashbyhq.com/zapier/68b635ca-0d12-4b3c-9404-3cc2a2f99274",
+      "source": "pipeline",
+      "notes": "Zapier | Account Executive, Enterprise",
+      "report_num": "1193"
+    },
+    "641": {
+      "id": "641",
+      "url": "https://jobs.ashbyhq.com/zapier/48b2e343-dd61-474b-95b0-549626fb070e",
+      "source": "pipeline",
+      "notes": "Zapier | Account Executive, Large Enterprise",
+      "report_num": "1194"
+    },
+    "642": {
+      "id": "642",
+      "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672",
+      "source": "pipeline",
+      "notes": "Zapier | Account Executive, Mid Market",
+      "report_num": "1195"
+    },
+    "643": {
+      "id": "643",
+      "url": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+      "source": "pipeline",
+      "notes": "Zapier | Sr. Applied AI Engineer",
+      "report_num": "1196"
+    },
+    "644": {
+      "id": "644",
+      "url": "https://jobs.ashbyhq.com/n8n/c13cb33a-b0c7-466b-bbd2-f32a76a12b8a",
+      "source": "pipeline",
+      "notes": "n8n | Enterprise Account Executive Northern Europe (Remote UK)",
+      "report_num": "1197"
+    },
+    "645": {
+      "id": "645",
+      "url": "https://jobs.ashbyhq.com/n8n/0d3cda2a-b592-4733-a6a9-cd49f4ddc925",
+      "source": "pipeline",
+      "notes": "n8n | Mid-Market Account Executive (Spanish or French Speaking - Remote Europe)",
+      "report_num": "1198"
+    },
+    "646": {
+      "id": "646",
+      "url": "https://jobs.ashbyhq.com/n8n/dd44765f-279f-4aff-9568-11c7bc66189a",
+      "source": "pipeline",
+      "notes": "n8n | Enterprise Sales Leader",
+      "report_num": "1199"
+    },
+    "647": {
+      "id": "647",
+      "url": "https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5",
+      "source": "pipeline",
+      "notes": "n8n | Senior Partnerships Manager GSI (EMEA)",
+      "report_num": "1200"
+    },
+    "648": {
+      "id": "648",
+      "url": "https://jobs.ashbyhq.com/langchain/426359a5-3a48-4b81-ba25-b2f32678b153",
+      "source": "pipeline",
+      "notes": "LangChain | Commercial Account Executive",
+      "report_num": "1201"
+    },
+    "649": {
+      "id": "649",
+      "url": "https://jobs.ashbyhq.com/langchain/fd3767ba-6247-47bd-85ae-7e76be3871e6",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive (Dallas)",
+      "report_num": "1202"
+    },
+    "650": {
+      "id": "650",
+      "url": "https://jobs.ashbyhq.com/langchain/c16d44ab-faf0-4111-9ca7-8acb5dffcf46",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive (UK)",
+      "report_num": "1203"
+    },
+    "651": {
+      "id": "651",
+      "url": "https://jobs.ashbyhq.com/langchain/c8150807-d346-47d5-9242-b0994d77ca87",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive (Germany)",
+      "report_num": "1204"
+    },
+    "652": {
+      "id": "652",
+      "url": "https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive (Stockholm)",
+      "report_num": "1205"
+    },
+    "653": {
+      "id": "653",
+      "url": "https://jobs.ashbyhq.com/langchain/65dbb419-ca80-4fda-b1b7-b81c08878992",
+      "source": "pipeline",
+      "notes": "LangChain | Commercial Account Executive (UK)",
+      "report_num": "1206"
+    },
+    "654": {
+      "id": "654",
+      "url": "https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive (Federal)",
+      "report_num": "1207"
+    },
+    "655": {
+      "id": "655",
+      "url": "https://jobs.ashbyhq.com/langchain/4cc17d44-c8b6-4133-abc3-9932782b05c9",
+      "source": "pipeline",
+      "notes": "LangChain | Cloud Alliance Manager",
+      "report_num": "1208"
+    },
+    "656": {
+      "id": "656",
+      "url": "https://jobs.ashbyhq.com/langchain/df3a645d-5c08-4ea2-8823-7e40a5cbf9a6",
+      "source": "pipeline",
+      "notes": "LangChain | Enterprise Account Executive, South EMEA (UK)",
+      "report_num": "1209"
+    },
+    "657": {
+      "id": "657",
+      "url": "https://jobs.ashbyhq.com/langchain/a7ba225a-b4c8-4ae8-9979-b6ff4cb4401d",
+      "source": "pipeline",
+      "notes": "LangChain | Commercial Account Executive (Germany)",
+      "report_num": "1210"
+    },
+    "658": {
+      "id": "658",
+      "url": "https://jobs.ashbyhq.com/cohere/e550c9f7-db88-408b-a1ad-3aad9fd77bf1",
+      "source": "pipeline",
+      "notes": "Cohere | Senior Account Executive - Energy & Utilities",
+      "report_num": "1211"
+    },
+    "659": {
+      "id": "659",
+      "url": "https://jobs.ashbyhq.com/cohere/c199be74-1770-4db2-a06e-474bad4716fe",
+      "source": "pipeline",
+      "notes": "Cohere | Senior Account Executive - KSA",
+      "report_num": "1212"
+    },
+    "660": {
+      "id": "660",
+      "url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e",
+      "source": "pipeline",
+      "notes": "Cohere | Senior Account Executive - US Public Sector (SLED, Civilian and Federal)",
+      "report_num": "1213"
+    },
+    "661": {
+      "id": "661",
+      "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+      "source": "pipeline",
+      "notes": "Cohere | Applied AI Engineer – Agentic Workflows",
+      "report_num": "1214"
+    },
+    "662": {
+      "id": "662",
+      "url": "https://jobs.ashbyhq.com/cohere/995f4f08-d0db-42f1-ba44-f8f1a7e5a4d1",
+      "source": "pipeline",
+      "notes": "Cohere | Strategic Account Executive - Telecommunications",
+      "report_num": "1215"
+    },
+    "663": {
+      "id": "663",
+      "url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514",
+      "source": "pipeline",
+      "notes": "Cohere | Strategic Account Executive - Energy (oil and gas) & Utilities",
+      "report_num": "1216"
+    },
+    "664": {
+      "id": "664",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "source": "pipeline",
+      "notes": "Cohere | Applied AI Engineer – Agentic Workflows (Korea)",
+      "report_num": "1217"
+    },
+    "665": {
+      "id": "665",
+      "url": "https://jobs.ashbyhq.com/cohere/277827a9-02b7-49ca-8590-458e93cab0e6",
+      "source": "pipeline",
+      "notes": "Cohere | VP Sales, EMEA",
+      "report_num": "1218"
+    },
+    "666": {
+      "id": "666",
+      "url": "https://jobs.ashbyhq.com/cohere/cf71a481-577e-485f-aa44-7648efff60a7",
+      "source": "pipeline",
+      "notes": "Cohere | VP Sales, Americas",
+      "report_num": "1219"
+    },
+    "667": {
+      "id": "667",
+      "url": "https://boomi.com/boomi-jobs/?gh_jid=5982504004",
+      "source": "pipeline",
+      "notes": "Boomi | Account Executive 5, Direct Sales",
+      "report_num": "1220"
+    },
+    "668": {
+      "id": "668",
+      "url": "https://boomi.com/boomi-jobs/?gh_jid=5835407004",
+      "source": "pipeline",
+      "notes": "Boomi | Account Executive - Emerging Market",
+      "report_num": "1221"
+    },
+    "669": {
+      "id": "669",
+      "url": "https://boomi.com/boomi-jobs/?gh_jid=5004405004",
+      "source": "pipeline",
+      "notes": "Boomi | Commercial Sales Account Executive, Barcelona (Hybrid) - FUTURE OPPORTUNITIES",
+      "report_num": "1222"
+    },
+    "670": {
+      "id": "670",
+      "url": "https://boomi.com/boomi-jobs/?gh_jid=5984211004",
+      "source": "pipeline",
+      "notes": "Boomi | Emerging Growth Account Executive (Hybrid Denver)",
+      "report_num": "1223"
+    },
+    "671": {
+      "id": "671",
+      "url": "https://boomi.com/boomi-jobs/?gh_jid=5799703004",
+      "source": "pipeline",
+      "notes": "Boomi | Partner Sales Manager",
+      "report_num": "1224"
+    },
+    "672": {
+      "id": "672",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "source": "pipeline",
+      "notes": "Vercel | Account Executive- Startups, Greenfield",
+      "report_num": "1225"
+    },
+    "673": {
+      "id": "673",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5752956004",
+      "source": "pipeline",
+      "notes": "Vercel | Account Executive-Startups, Greenfield (EMEA)",
+      "report_num": "1226"
+    },
+    "674": {
+      "id": "674",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5789770004",
+      "source": "pipeline",
+      "notes": "Vercel | Account Executive- Startups, Install Base",
+      "report_num": "1227"
+    },
+    "675": {
+      "id": "675",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
+      "source": "pipeline",
+      "notes": "Vercel | Enterprise Account Executive",
+      "report_num": "1228"
+    },
+    "676": {
+      "id": "676",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5848322004",
+      "source": "pipeline",
+      "notes": "Vercel | Majors Account Executive, Berlin",
+      "report_num": "1229"
+    },
+    "677": {
+      "id": "677",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5843333004",
+      "source": "pipeline",
+      "notes": "Vercel | Senior Product Partnerships Manager",
+      "report_num": "1230"
+    },
+    "678": {
+      "id": "678",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5800328004",
+      "source": "pipeline",
+      "notes": "Vercel | Strategic Account Executive",
+      "report_num": "1231"
+    },
+    "679": {
+      "id": "679",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8206711002",
+      "source": "pipeline",
+      "notes": "Later | Account Executive",
+      "report_num": "1232"
+    },
+    "680": {
+      "id": "680",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8206703002",
+      "source": "pipeline",
+      "notes": "Later | Director of Partnerships",
+      "report_num": "1233"
+    },
+    "681": {
+      "id": "681",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8501147002",
+      "source": "pipeline",
+      "notes": "Later | Sr Director of Partnerships",
+      "report_num": "1234"
+    },
+    "682": {
+      "id": "682",
+      "url": "https://job-boards.greenhouse.io/safariai/jobs/5024708007",
+      "source": "pipeline",
+      "notes": "Safari AI | Head of Partnerships",
+      "report_num": "1235"
+    },
+    "683": {
+      "id": "683",
+      "url": "https://jobs.ashbyhq.com/attio/37d2b9e6-ca94-4132-9e52-052a03d8024b",
+      "source": "pipeline",
+      "notes": "Attio | Sales Manager",
+      "report_num": "1236"
+    },
+    "684": {
+      "id": "684",
+      "url": "https://jobs.ashbyhq.com/attio/01869e97-176e-4f53-a701-86d6c69ef0ea",
+      "source": "pipeline",
+      "notes": "Attio | Account Executive",
+      "report_num": "1237"
+    },
+    "685": {
+      "id": "685",
+      "url": "https://jobs.ashbyhq.com/DeepL/eea18ab0-0803-4d5a-b3d6-35c1c414e1ef",
+      "source": "pipeline",
+      "notes": "DeepL | Partner Sales Manager, Americas",
+      "report_num": "1238"
+    },
+    "686": {
+      "id": "686",
+      "url": "https://jobs.ashbyhq.com/DeepL/e2d24033-34a9-42eb-b4d8-2629a99b2638",
+      "source": "pipeline",
+      "notes": "DeepL | Enterprise Account Executive",
+      "report_num": "1239"
+    },
+    "687": {
+      "id": "687",
+      "url": "https://jobs.ashbyhq.com/DeepL/4079d759-a55c-4d02-8882-e765559a0a9e",
+      "source": "pipeline",
+      "notes": "DeepL | Enterprise Account Executive - Italy",
+      "report_num": "1240"
+    },
+    "688": {
+      "id": "688",
+      "url": "https://jobs.ashbyhq.com/DeepL/dc59654e-c78d-4ef9-b99d-a961b86ba5c3",
+      "source": "pipeline",
+      "notes": "DeepL | Account Executive - Enterprise (Kansai) 関西担当営業",
+      "report_num": "1241"
+    },
+    "689": {
+      "id": "689",
+      "url": "https://jobs.ashbyhq.com/DeepL/97ff1ac9-b89f-46b6-9bed-e738a25d5afc",
+      "source": "pipeline",
+      "notes": "DeepL | Senior Account Executive - Voice",
+      "report_num": "1242"
+    },
+    "690": {
+      "id": "690",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7706127",
+      "source": "pipeline",
+      "notes": "Hootsuite | Account Executive",
+      "report_num": "1243"
+    },
+    "691": {
+      "id": "691",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7871359",
+      "source": "pipeline",
+      "notes": "Hootsuite | Account Executive, Enterprise Sales",
+      "report_num": "1244"
+    },
+    "692": {
+      "id": "692",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7843284",
+      "source": "pipeline",
+      "notes": "Hootsuite | Account Executive, Mid-Market Sales",
+      "report_num": "1245"
+    },
+    "693": {
+      "id": "693",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7678737",
+      "source": "pipeline",
+      "notes": "Hootsuite | Senior Account Executive, Enterprise Sales",
+      "report_num": "1246"
+    },
+    "694": {
+      "id": "694",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7710139",
+      "source": "pipeline",
+      "notes": "Hootsuite | Senior Enterprise Account Manager",
+      "report_num": "1247"
+    },
+    "695": {
+      "id": "695",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7782592",
+      "source": "pipeline",
+      "notes": "Contentful | Area Sales Director",
+      "report_num": "1248"
+    },
+    "696": {
+      "id": "696",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7874826",
+      "source": "pipeline",
+      "notes": "Contentful | Commercial Account Executive DACH (f/m/d)",
+      "report_num": "1249"
+    },
+    "697": {
+      "id": "697",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7874855",
+      "source": "pipeline",
+      "notes": "Contentful | Mid Market Account Executive",
+      "report_num": "1250"
+    },
+    "698": {
+      "id": "698",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7874829",
+      "source": "pipeline",
+      "notes": "Contentful | Mid Market Account Executive - DACH (f/m/d)",
+      "report_num": "1251"
+    },
+    "699": {
+      "id": "699",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7623104",
+      "source": "pipeline",
+      "notes": "Contentful | Mid Market Account Executive DACH (f/m/d)",
+      "report_num": "1252"
+    },
+    "700": {
+      "id": "700",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7177651",
+      "source": "pipeline",
+      "notes": "Contentful | Mid Market Account Executive - UKI (f/m/d)",
+      "report_num": "1253"
+    },
+    "701": {
+      "id": "701",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/7658593",
+      "source": "pipeline",
+      "notes": "Contentful | Strategic Alliances Manager (f/m/d)",
+      "report_num": "1254"
+    },
+    "702": {
+      "id": "702",
+      "url": "https://getyourguide.careers/jobs/7548701?gh_jid=7548701",
+      "source": "pipeline",
+      "notes": "GetYourGuide | Head of Sales Operations",
+      "report_num": "1255"
+    },
+    "703": {
+      "id": "703",
+      "url": "https://getyourguide.careers/jobs/7857001?gh_jid=7857001",
+      "source": "pipeline",
+      "notes": "GetYourGuide | New Business Development Manager (Malay Speaker)",
+      "report_num": "1256"
+    },
+    "704": {
+      "id": "704",
+      "url": "https://job-boards.greenhouse.io/blackforestlabs/jobs/5142062008",
+      "source": "pipeline",
+      "notes": "Black Forest Labs | Account Executive",
+      "report_num": "1257"
+    },
+    "705": {
+      "id": "705",
+      "url": "https://job-boards.greenhouse.io/blackforestlabs/jobs/5014658008",
+      "source": "pipeline",
+      "notes": "Black Forest Labs | Senior Account Executive",
+      "report_num": "1258"
+    },
+    "706": {
+      "id": "706",
+      "url": "https://job-boards.greenhouse.io/blackforestlabs/jobs/5014558008",
+      "source": "pipeline",
+      "notes": "Black Forest Labs | Senior Partnerships Manager",
+      "report_num": "1259"
+    },
+    "707": {
+      "id": "707",
+      "url": "https://traderepublic.com/en-de/about?jobId=7723202003&gh_jid=7723202003",
+      "source": "pipeline",
+      "notes": "Trade Republic | Country Manager Netherlands",
+      "report_num": "1260"
+    },
+    "708": {
+      "id": "708",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7657936003?gh_jid=7657936003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive",
+      "report_num": "1261"
+    },
+    "709": {
+      "id": "709",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7657954003?gh_jid=7657954003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive - GCC",
+      "report_num": "1262"
+    },
+    "710": {
+      "id": "710",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7504810003?gh_jid=7504810003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive - Life Sciences",
+      "report_num": "1263"
+    },
+    "711": {
+      "id": "711",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive - Retail",
+      "report_num": "1264"
+    },
+    "712": {
+      "id": "712",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7538022003?gh_jid=7538022003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive - State & Local Govt",
+      "report_num": "1265"
+    },
+    "713": {
+      "id": "713",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003",
+      "source": "pipeline",
+      "notes": "Celonis | Applied AI Engineer",
+      "report_num": "1266"
+    },
+    "714": {
+      "id": "714",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003",
+      "source": "pipeline",
+      "notes": "Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program",
+      "report_num": "1267"
+    },
+    "715": {
+      "id": "715",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7719380003?gh_jid=7719380003",
+      "source": "pipeline",
+      "notes": "Celonis | Business Development Manager",
+      "report_num": "1268"
+    },
+    "716": {
+      "id": "716",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7720745003?gh_jid=7720745003",
+      "source": "pipeline",
+      "notes": "Celonis | Corporate Account Executive - DACH",
+      "report_num": "1269"
+    },
+    "717": {
+      "id": "717",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7721667003?gh_jid=7721667003",
+      "source": "pipeline",
+      "notes": "Celonis | Enterprise Account Executive Benelux",
+      "report_num": "1270"
+    },
+    "718": {
+      "id": "718",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7714633003?gh_jid=7714633003",
+      "source": "pipeline",
+      "notes": "Celonis | Enterprise Account Executive Benelux - CPG / Retail",
+      "report_num": "1271"
+    },
+    "719": {
+      "id": "719",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7551913003?gh_jid=7551913003",
+      "source": "pipeline",
+      "notes": "Celonis | Enterprise Account Executive, Nordics",
+      "report_num": "1272"
+    },
+    "720": {
+      "id": "720",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627021003?gh_jid=7627021003",
+      "source": "pipeline",
+      "notes": "Celonis | Partner Sales Director - US Public Sector",
+      "report_num": "1273"
+    },
+    "721": {
+      "id": "721",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7551536003?gh_jid=7551536003",
+      "source": "pipeline",
+      "notes": "Celonis | Portfolio (Scale) Account Executive",
+      "report_num": "1274"
+    },
+    "722": {
+      "id": "722",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7549925003?gh_jid=7549925003",
+      "source": "pipeline",
+      "notes": "Celonis | Senior Account Executive",
+      "report_num": "1275"
+    },
+    "723": {
+      "id": "723",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7479634003?gh_jid=7479634003",
+      "source": "pipeline",
+      "notes": "Celonis | Senior Applied AI Engineer",
+      "report_num": "1276"
+    },
+    "724": {
+      "id": "724",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7681606003?gh_jid=7681606003",
+      "source": "pipeline",
+      "notes": "Celonis | Senior Applied AI Engineer - Public Sector",
+      "report_num": "1277"
+    },
+    "725": {
+      "id": "725",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7614505003?gh_jid=7614505003",
+      "source": "pipeline",
+      "notes": "Celonis | Senior Applied AI Engineer (Value Engineering) - EMEA/UKIE",
+      "report_num": "1278"
+    },
+    "726": {
+      "id": "726",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7607677003?gh_jid=7607677003",
+      "source": "pipeline",
+      "notes": "Celonis | Strategic Account Executive / Client Partner - Manufacturing",
+      "report_num": "1279"
+    },
+    "727": {
+      "id": "727",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/6587626003?gh_jid=6587626003",
+      "source": "pipeline",
+      "notes": "Celonis | Strategic Account Executive - Manufacturing",
+      "report_num": "1280"
+    },
+    "728": {
+      "id": "728",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7698036003?gh_jid=7698036003",
+      "source": "pipeline",
+      "notes": "Celonis | Strategic Account Executive Nordics",
+      "report_num": "1281"
+    },
+    "729": {
+      "id": "729",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7662948003?gh_jid=7662948003",
+      "source": "pipeline",
+      "notes": "Celonis | Strategic Account Executive, Nordics",
+      "report_num": "1282"
+    },
+    "730": {
+      "id": "730",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/e97ff5af-5c5c-491c-83de-16be76650c9e",
+      "source": "pipeline",
+      "notes": "Lakera | Enterprise Account Executive (Germany)",
+      "report_num": "1283"
+    },
+    "731": {
+      "id": "731",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/4b201397-078d-4420-bb33-878819035c17",
+      "source": "pipeline",
+      "notes": "Lakera | Enterprise Account Executive (France)",
+      "report_num": "1284"
+    },
+    "732": {
+      "id": "732",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/e706d9d8-8560-4b8f-af89-ce2831aa2d60",
+      "source": "pipeline",
+      "notes": "Lakera | Enterprise Account Executive (Italy)",
+      "report_num": "1285"
+    },
+    "733": {
+      "id": "733",
+      "url": "https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78",
+      "source": "pipeline",
+      "notes": "Cradle | Account Executive, Global Accounts",
+      "report_num": "1286"
+    },
+    "734": {
+      "id": "734",
+      "url": "https://careers.hellofresh.com/global/en/job/7739124?gh_jid=7739124",
+      "source": "pipeline",
+      "notes": "HelloFresh | Account Executive, Retail Media",
+      "report_num": "1287"
+    },
+    "735": {
+      "id": "735",
+      "url": "https://careers.hellofresh.com/global/en/job/7791021?gh_jid=7791021",
+      "source": "pipeline",
+      "notes": "HelloFresh | Junior Partnerships Manager",
+      "report_num": "1288"
+    },
+    "736": {
+      "id": "736",
+      "url": "https://sumup.com/careers/positions/8539626002?gh_jid=8539626002",
+      "source": "pipeline",
+      "notes": "SumUp | Field Sales Territory Sales Manager - NL",
+      "report_num": "1289"
+    },
+    "737": {
+      "id": "737",
+      "url": "https://sumup.com/careers/positions/8496755002?gh_jid=8496755002",
+      "source": "pipeline",
+      "notes": "SumUp | Growth Account Manager",
+      "report_num": "1290"
+    },
+    "738": {
+      "id": "738",
+      "url": "https://sumup.com/careers/positions/8538856002?gh_jid=8538856002",
+      "source": "pipeline",
+      "notes": "SumUp | Inside Sales Account Executive",
+      "report_num": "1291"
+    },
+    "739": {
+      "id": "739",
+      "url": "https://sumup.com/careers/positions/8522183002?gh_jid=8522183002",
+      "source": "pipeline",
+      "notes": "SumUp | Jr Inbound Account Executive - London",
+      "report_num": "1292"
+    },
+    "740": {
+      "id": "740",
+      "url": "https://sumup.com/careers/positions/8526289002?gh_jid=8526289002",
+      "source": "pipeline",
+      "notes": "SumUp | Outbound Key Account Executive (Switzerland)",
+      "report_num": "1293"
+    },
+    "741": {
+      "id": "741",
+      "url": "https://sumup.com/careers/positions/8526284002?gh_jid=8526284002",
+      "source": "pipeline",
+      "notes": "SumUp | Outbound Key Account Executive (Switzerland)",
+      "report_num": "1294"
+    },
+    "742": {
+      "id": "742",
+      "url": "http://stability.ai/careers?gh_jid=4673732101",
+      "source": "pipeline",
+      "notes": "Stability AI | Enterprise Account Executive",
+      "report_num": "1295"
+    },
+    "743": {
+      "id": "743",
+      "url": "http://stability.ai/careers?gh_jid=4653332101",
+      "source": "pipeline",
+      "notes": "Stability AI | Global Director of Partnerships",
+      "report_num": "1296"
+    },
+    "744": {
+      "id": "744",
+      "url": "https://jobs.ashbyhq.com/synthesia/11cac93d-fea6-4f22-add1-d4e3bb904b94",
+      "source": "pipeline",
+      "notes": "Synthesia | Enterprise Account Executive",
+      "report_num": "1297"
+    },
+    "745": {
+      "id": "745",
+      "url": "https://jobs.ashbyhq.com/synthesia/30e9bca5-32ce-4609-8546-47772b6315a1",
+      "source": "pipeline",
+      "notes": "Synthesia | Strategic Account Executive",
+      "report_num": "1298"
+    },
+    "746": {
+      "id": "746",
+      "url": "https://jobs.ashbyhq.com/lovable/118e129c-1634-4bd2-bf1b-a99a28aa6608",
+      "source": "pipeline",
+      "notes": "Lovable | Account Executive",
+      "report_num": "1299"
+    },
+    "747": {
+      "id": "747",
+      "url": "https://jobs.ashbyhq.com/lovable/129316bb-b02c-4177-8d8a-5184e3de6070",
+      "source": "pipeline",
+      "notes": "Lovable | Enterprise Account Executive",
+      "report_num": "1300"
+    },
+    "748": {
+      "id": "748",
+      "url": "https://jobs.ashbyhq.com/legora/41ce10ab-8cb7-4923-a2e3-819875689a7c",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive SMB",
+      "report_num": "1301"
+    },
+    "749": {
+      "id": "749",
+      "url": "https://jobs.ashbyhq.com/legora/1e77bc34-dd2c-494f-a7c0-26947df2fa5f",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive SMB - EMEA",
+      "report_num": "1302"
+    },
+    "750": {
+      "id": "750",
+      "url": "https://jobs.ashbyhq.com/legora/3f2e1bb4-2a6d-4ce6-8cb9-7cbde773d80c",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive Enterprise",
+      "report_num": "1303"
+    },
+    "751": {
+      "id": "751",
+      "url": "https://jobs.ashbyhq.com/legora/bccff189-79ed-43f5-8205-5a473b894a7c",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive - Northern Europe",
+      "report_num": "1304"
+    },
+    "752": {
+      "id": "752",
+      "url": "https://jobs.ashbyhq.com/legora/341b8ffd-24e7-4691-bc7e-1ac6c2128fb1",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive",
+      "report_num": "1305"
+    },
+    "753": {
+      "id": "753",
+      "url": "https://jobs.ashbyhq.com/legora/03bf6627-2d72-4c47-a0d7-2a3cdb7101db",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive - Southern Europe",
+      "report_num": "1306"
+    },
+    "754": {
+      "id": "754",
+      "url": "https://jobs.ashbyhq.com/legora/f5893c3c-c9c6-4a3c-8f2e-30431247891d",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive Mid-Market",
+      "report_num": "1307"
+    },
+    "755": {
+      "id": "755",
+      "url": "https://jobs.ashbyhq.com/legora/8eeec7d1-078f-4976-8db0-728d307a383b",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive - DACH",
+      "report_num": "1308"
+    },
+    "756": {
+      "id": "756",
+      "url": "https://jobs.ashbyhq.com/legora/d6853784-cffb-4da0-ae64-05d9e25a754f",
+      "source": "pipeline",
+      "notes": "Legora | Partnerships Manager - Law Schools",
+      "report_num": "1309"
+    },
+    "757": {
+      "id": "757",
+      "url": "https://jobs.ashbyhq.com/legora/afa64797-b39d-4a93-9928-9155d1924d32",
+      "source": "pipeline",
+      "notes": "Legora | Partnerships Manager, Channel Partnerships",
+      "report_num": "1310"
+    },
+    "758": {
+      "id": "758",
+      "url": "https://jobs.ashbyhq.com/legora/bd2520a2-9321-4df2-8a21-2e98876223fe",
+      "source": "pipeline",
+      "notes": "Legora | Partnerships Manager, Product Integrations",
+      "report_num": "1311"
+    },
+    "759": {
+      "id": "759",
+      "url": "https://jobs.ashbyhq.com/legora/0002076c-d001-470a-b308-1df68e66f661",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive - Public Sector",
+      "report_num": "1312"
+    },
+    "760": {
+      "id": "760",
+      "url": "https://jobs.ashbyhq.com/legora/13a86d48-18a7-4be2-a488-992015c7e2d6",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive Mid Market",
+      "report_num": "1313"
+    },
+    "761": {
+      "id": "761",
+      "url": "https://jobs.ashbyhq.com/claylabs/0bfc4016-f5b2-4957-a305-ec5dd96d4fa4",
+      "source": "pipeline",
+      "notes": "Clay Labs | Sales Manager (GTME)",
+      "report_num": "1314"
+    },
+    "762": {
+      "id": "762",
+      "url": "https://jobs.ashbyhq.com/claylabs/84212160-462f-42a1-a9c2-b9b6428e945f",
+      "source": "pipeline",
+      "notes": "Clay Labs | Account Executive (GTME - New Business)",
+      "report_num": "1315"
+    },
+    "763": {
+      "id": "763",
+      "url": "https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4",
+      "source": "pipeline",
+      "notes": "Clay Labs | Account Executive (GTME - High Velocity)",
+      "report_num": "1316"
+    },
+    "764": {
+      "id": "764",
+      "url": "https://jobs.ashbyhq.com/claylabs/7bd35c48-c394-46c8-98a1-f809fed007d8",
+      "source": "pipeline",
+      "notes": "Clay Labs | Account Executive (GTME) - SMB/High Velocity",
+      "report_num": "1317"
+    },
+    "765": {
+      "id": "765",
+      "url": "https://jobs.ashbyhq.com/claylabs/901d9b5c-d79c-4147-b006-4c641aa7af86",
+      "source": "pipeline",
+      "notes": "Clay Labs | Partner Sales Manager",
+      "report_num": "1318"
+    },
+    "766": {
+      "id": "766",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4823560101",
+      "source": "pipeline",
+      "notes": "Amplemarket | Outbound Account Executive, Europe",
+      "report_num": "1319"
+    },
+    "767": {
+      "id": "767",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4823568101",
+      "source": "pipeline",
+      "notes": "Amplemarket | Outbound Account Executive, US",
+      "report_num": "1320"
+    },
+    "768": {
+      "id": "768",
+      "url": "https://jobs.ashbyhq.com/workos/70cedfd9-1ed8-4e4e-bc6a-9f0bbcc4756d",
+      "source": "pipeline",
+      "notes": "WorkOS | GTM - Enterprise Sales",
+      "report_num": "1321"
+    },
+    "769": {
+      "id": "769",
+      "url": "https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b",
+      "source": "pipeline",
+      "notes": "WorkOS | Applied AI Engineer",
+      "report_num": "1322"
+    },
+    "770": {
+      "id": "770",
+      "url": "https://jobs.ashbyhq.com/resend/78e3376d-46b3-4c24-9553-76eb85c0e73d",
+      "source": "pipeline",
+      "notes": "Resend | Account Executive",
+      "report_num": "1323"
+    },
+    "771": {
+      "id": "771",
+      "url": "https://jobs.ashbyhq.com/supabase/69d1b2ec-9d9b-45b0-937a-a8454f66487e",
+      "source": "pipeline",
+      "notes": "Supabase | Enterprise Account Executive , Bay Area",
+      "report_num": "1324"
+    },
+    "772": {
+      "id": "772",
+      "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "source": "pipeline",
+      "notes": "Supabase | Account Executive, EMEA",
+      "report_num": "1325"
+    },
+    "773": {
+      "id": "773",
+      "url": "https://jobs.ashbyhq.com/supabase/be8f22ff-2380-49ac-911b-c6dfabec4bad",
+      "source": "pipeline",
+      "notes": "Supabase | Enterprise Account Executive (EMEA, Sweden)",
+      "report_num": "1326"
+    },
+    "774": {
+      "id": "774",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5983622004",
+      "source": "pipeline",
+      "notes": "Hightouch | Account Executive, Mid-Market - Mountain West",
+      "report_num": "1327"
+    },
+    "775": {
+      "id": "775",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5363099004",
+      "source": "pipeline",
+      "notes": "Hightouch | Account Executive, Mid-Market West",
+      "report_num": "1328"
+    },
+    "776": {
+      "id": "776",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5832133004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive, DACH",
+      "report_num": "1329"
+    },
+    "777": {
+      "id": "777",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive - East",
+      "report_num": "1330"
+    },
+    "778": {
+      "id": "778",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5703873004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive - MENA",
+      "report_num": "1331"
+    },
+    "779": {
+      "id": "779",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5726252004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive -Mountain West",
+      "report_num": "1332"
+    },
+    "780": {
+      "id": "780",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5146297004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive - West",
+      "report_num": "1333"
+    },
+    "781": {
+      "id": "781",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5468567004",
+      "source": "pipeline",
+      "notes": "Hightouch | Mid-Market Account Executive, EMEA",
+      "report_num": "1334"
+    },
+    "782": {
+      "id": "782",
+      "url": "https://jobs.lever.co/pigment/3124ad58-dcc6-49a3-88f2-8e43d84c1ce7",
+      "source": "pipeline",
+      "notes": "Pigment | Corporate Account Executive (x/f/m) - DACH",
+      "report_num": "1335"
+    },
+    "783": {
+      "id": "783",
+      "url": "https://jobs.lever.co/pigment/122e0ef3-f97d-4f32-91f0-a8b2924705bf",
+      "source": "pipeline",
+      "notes": "Pigment | Enterprise Account Executive - UK",
+      "report_num": "1336"
+    },
+    "784": {
+      "id": "784",
+      "url": "https://jobs.lever.co/pigment/869f8f33-87dd-4d34-b515-010d6078089a",
+      "source": "pipeline",
+      "notes": "Pigment | Enterprise Account Executive - West",
+      "report_num": "1337"
+    },
+    "785": {
+      "id": "785",
+      "url": "https://jobs.lever.co/pigment/120a3c2c-29d2-459c-9b6e-178e98ecdb25",
+      "source": "pipeline",
+      "notes": "Pigment | Enterprise Account Executive (x/f/m) - DACH",
+      "report_num": "1338"
+    },
+    "786": {
+      "id": "786",
+      "url": "https://jobs.lever.co/pigment/4ace4f88-26af-45a1-bb70-d022a6cfc4fe",
+      "source": "pipeline",
+      "notes": "Pigment | Enterprise Account Executive, East Region",
+      "report_num": "1339"
+    },
+    "787": {
+      "id": "787",
+      "url": "https://jobs.lever.co/pigment/92b63ea5-3295-4f66-b444-55f9c6647eb8",
+      "source": "pipeline",
+      "notes": "Pigment | Mid-Market Account Executive (x/f/m) - DACH",
+      "report_num": "1340"
+    },
+    "788": {
+      "id": "788",
+      "url": "https://jobs.lever.co/pigment/1900b563-84aa-4731-aebb-7ece2462aba1",
+      "source": "pipeline",
+      "notes": "Pigment | Mid-Market/Corporate Sales Manager - UK&I",
+      "report_num": "1341"
+    },
+    "789": {
+      "id": "789",
+      "url": "https://jobs.lever.co/qonto/d77ff5ff-1de2-4dfc-b6ef-828d613f426f",
+      "source": "pipeline",
+      "notes": "Qonto | Head of Partnerships Deutschland (m/w/d)",
+      "report_num": "1342"
+    },
+    "790": {
+      "id": "790",
+      "url": "https://jobs.lever.co/mistral/2a357282-9d44-4b41-a249-c75ffe878ce2",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive - Enterprise, (Consulting)",
+      "report_num": "1343"
+    },
+    "791": {
+      "id": "791",
+      "url": "https://jobs.lever.co/mistral/7894fd8a-ffc9-4c89-87f0-f8a7b695cf01",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive – AI for Citizens",
+      "report_num": "1344"
+    },
+    "792": {
+      "id": "792",
+      "url": "https://jobs.lever.co/mistral/618c9763-cb22-4343-baca-cf1cf6b05f5c",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Digital Native US",
+      "report_num": "1345"
+    },
+    "793": {
+      "id": "793",
+      "url": "https://jobs.lever.co/mistral/25757afe-9b9d-4be7-87e1-e744eaa01105",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Enterprise - SF Bay Area",
+      "report_num": "1346"
+    },
+    "794": {
+      "id": "794",
+      "url": "https://jobs.lever.co/mistral/5fb6179e-74ae-46c8-9cde-95b71890e76a",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Enterprise, DACH",
+      "report_num": "1347"
+    },
+    "795": {
+      "id": "795",
+      "url": "https://jobs.lever.co/mistral/46bf0c1c-cca2-4941-bd8d-18024fa59afa",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Enterprise, France - Paris",
+      "report_num": "1348"
+    },
+    "796": {
+      "id": "796",
+      "url": "https://jobs.lever.co/mistral/04a3a058-aff8-4cc4-a419-eb09e83fa947",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Enterprise, Netherlands",
+      "report_num": "1349"
+    },
+    "797": {
+      "id": "797",
+      "url": "https://jobs.lever.co/mistral/52808932-3aaa-419f-a08d-1fb2a0aed781",
+      "source": "pipeline",
+      "notes": "Mistral AI | Account Executive, Enterprise, UK - London",
+      "report_num": "1350"
+    },
+    "798": {
+      "id": "798",
+      "url": "https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d",
+      "source": "pipeline",
+      "notes": "Mistral AI | Applied AI Engineer, Prototyping",
+      "report_num": "1351"
+    },
+    "799": {
+      "id": "799",
+      "url": "https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c",
+      "source": "pipeline",
+      "notes": "Mistral AI | Applied AI Engineer, Senior/Staff Devops/SRE - EMEA",
+      "report_num": "1352"
+    },
+    "800": {
+      "id": "800",
+      "url": "https://jobs.lever.co/mistral/b551de18-b9ae-493e-beb1-629fe9e88381",
+      "source": "pipeline",
+      "notes": "Mistral AI | Business Development Manager - Tech Partners",
+      "report_num": "1353"
+    },
+    "801": {
+      "id": "801",
+      "url": "https://jobs.lever.co/mistral/bfb756e5-c820-4c55-96f4-f41c4cfa972e",
+      "source": "pipeline",
+      "notes": "Mistral AI | Enterprise Sales Leader",
+      "report_num": "1354"
+    },
+    "802": {
+      "id": "802",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5165641008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (French Speaking)",
+      "report_num": "1355"
+    },
+    "803": {
+      "id": "803",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "report_num": "1356"
+    },
+    "804": {
+      "id": "804",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5165670008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)",
+      "report_num": "1357"
+    },
+    "805": {
+      "id": "805",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4964935008",
+      "source": "pipeline",
+      "notes": "Anthropic | Account Executive, Startups",
+      "report_num": "1358"
+    },
+    "806": {
+      "id": "806",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215052008",
+      "source": "pipeline",
+      "notes": "Anthropic | Amazon GTM Partnership, Startups",
+      "report_num": "1359"
+    },
+    "807": {
+      "id": "807",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5014500008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer",
+      "report_num": "1360"
+    },
+    "808": {
+      "id": "808",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146028008",
+      "source": "pipeline",
+      "notes": "Anthropic | Applied AI Engineer, Beneficial Deployments",
+      "report_num": "1361"
+    },
+    "809": {
+      "id": "809",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4947500008",
+      "source": "pipeline",
+      "notes": "Anthropic | Enterprise Account Executive, Industries",
+      "report_num": "1362"
+    },
+    "810": {
+      "id": "810",
+      "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4812456101",
+      "source": "pipeline",
+      "notes": "PolyAI | Enterprise Account Executive",
+      "report_num": "1363"
+    },
+    "811": {
+      "id": "811",
+      "url": "https://jobs.ashbyhq.com/sierra/2da4e2ef-2cf3-4df5-9dcd-972bc2a0fb1c",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Sales Leader",
+      "report_num": "1364"
+    },
+    "812": {
+      "id": "812",
+      "url": "https://jobs.ashbyhq.com/sierra/d48840fa-f567-482b-af77-afa4df4d0bce",
+      "source": "pipeline",
+      "notes": "Sierra | Enterprise Account Executive",
+      "report_num": "1365"
+    },
+    "813": {
+      "id": "813",
+      "url": "https://jobs.ashbyhq.com/sierra/43765060-50c1-4574-8134-428facdb388b",
+      "source": "pipeline",
+      "notes": "Sierra | Sales Director",
+      "report_num": "1366"
+    },
+    "814": {
+      "id": "814",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7247950",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Commercial",
+      "report_num": "1367"
+    },
+    "815": {
+      "id": "815",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7603334",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Emerging AI Products",
+      "report_num": "1368"
+    },
+    "816": {
+      "id": "816",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7395357",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Enterprise",
+      "report_num": "1369"
+    },
+    "817": {
+      "id": "817",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/6922266",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, MidMarket",
+      "report_num": "1370"
+    },
+    "818": {
+      "id": "818",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7559695",
+      "source": "pipeline",
+      "notes": "Intercom | Account Executive, Senior MidMarket",
+      "report_num": "1371"
+    },
+    "819": {
+      "id": "819",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693786005",
+      "source": "pipeline",
+      "notes": "Glean | Corporate Account Executive",
+      "report_num": "1372"
+    },
+    "820": {
+      "id": "820",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4619072005",
+      "source": "pipeline",
+      "notes": "Glean | Enterprise Account Executive",
+      "report_num": "1373"
+    },
+    "821": {
+      "id": "821",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4685501005",
+      "source": "pipeline",
+      "notes": "Glean | Partner Sales Manager",
+      "report_num": "1374"
+    },
+    "822": {
+      "id": "822",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4689979005",
+      "source": "pipeline",
+      "notes": "Glean | Strategic Account Executive",
+      "report_num": "1375"
+    },
+    "823": {
+      "id": "823",
+      "url": "https://jobs.ashbyhq.com/decagon/db2926db-4f62-49fc-bbcd-29825ada8d8c",
+      "source": "pipeline",
+      "notes": "Decagon | Enterprise Account Executive",
+      "report_num": "1376"
+    },
+    "824": {
+      "id": "824",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8206712002",
+      "source": "pipeline",
+      "notes": "Later | Account Executive",
+      "report_num": "1377"
+    },
+    "825": {
+      "id": "825",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8206704002",
+      "source": "pipeline",
+      "notes": "Later | Director of Partnerships",
+      "report_num": "1378"
+    },
+    "826": {
+      "id": "826",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7678717",
+      "source": "pipeline",
+      "notes": "Hootsuite | Account Executive, Enterprise Sales",
+      "report_num": "1379"
+    },
+    "827": {
+      "id": "827",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7678795",
+      "source": "pipeline",
+      "notes": "Hootsuite | Account Executive, Mid-Market Sales",
+      "report_num": "1380"
+    },
+    "828": {
+      "id": "828",
+      "url": "https://careers.hootsuite.com/job/?gh_jid=7871356",
+      "source": "pipeline",
+      "notes": "Hootsuite | Senior Account Executive, Enterprise Sales",
+      "report_num": "1381"
+    },
+    "829": {
+      "id": "829",
+      "url": "https://jobs.ashbyhq.com/attio/1762dab9-895e-4421-9390-bea58175f17c",
+      "source": "pipeline",
+      "notes": "Attio | Sales Manager",
+      "report_num": "1382"
+    },
+    "830": {
+      "id": "830",
+      "url": "https://jobs.ashbyhq.com/attio/fc7adb41-6db3-4fe3-935a-85f03625ad7a",
+      "source": "pipeline",
+      "notes": "Attio | Account Executive",
+      "report_num": "1383"
+    },
+    "831": {
+      "id": "831",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7496507003?gh_jid=7496507003",
+      "source": "pipeline",
+      "notes": "Celonis | Account Executive",
+      "report_num": "1384"
+    },
+    "832": {
+      "id": "832",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7631651003?gh_jid=7631651003",
+      "source": "pipeline",
+      "notes": "Celonis | Strategic Account Executive / Client Partner - Manufacturing",
+      "report_num": "1385"
+    },
+    "833": {
+      "id": "833",
+      "url": "https://sumup.com/careers/positions/8525904002?gh_jid=8525904002",
+      "source": "pipeline",
+      "notes": "SumUp | Outbound Key Account Executive (Switzerland)",
+      "report_num": "1386"
+    },
+    "834": {
+      "id": "834",
+      "url": "https://jobs.ashbyhq.com/synthesia/0560eb00-0e85-47d4-9b66-f9af3033a85e",
+      "source": "pipeline",
+      "notes": "Synthesia | Strategic Account Executive",
+      "report_num": "1387"
+    },
+    "835": {
+      "id": "835",
+      "url": "https://jobs.ashbyhq.com/synthesia/2e61f2b5-39c0-47d6-b001-2c5ea74cf29b",
+      "source": "pipeline",
+      "notes": "Synthesia | Enterprise Account Executive",
+      "report_num": "1388"
+    },
+    "836": {
+      "id": "836",
+      "url": "https://jobs.ashbyhq.com/lovable/ea31ce4f-b0db-448b-b3b0-a8fb4fb7fa90",
+      "source": "pipeline",
+      "notes": "Lovable | Account Executive",
+      "report_num": "1389"
+    },
+    "837": {
+      "id": "837",
+      "url": "https://jobs.ashbyhq.com/legora/192e2fee-6405-4ea6-9515-ff8c6aea7db7",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive SMB",
+      "report_num": "1390"
+    },
+    "838": {
+      "id": "838",
+      "url": "https://jobs.ashbyhq.com/legora/68afde97-1cbd-4050-9ab0-139ce521271e",
+      "source": "pipeline",
+      "notes": "Legora | Account Executive Enterprise",
+      "report_num": "1391"
+    },
+    "839": {
+      "id": "839",
+      "url": "https://jobs.ashbyhq.com/claylabs/7ee967d9-82eb-4a9a-ab49-617f608872c9",
+      "source": "pipeline",
+      "notes": "Clay Labs | Account Executive (GTME - New Business)",
+      "report_num": "1392"
+    },
+    "840": {
+      "id": "840",
+      "url": "https://jobs.ashbyhq.com/claylabs/741b403b-6581-4c55-ad98-03eb51d66795",
+      "source": "pipeline",
+      "notes": "Clay Labs | Account Executive (GTME - High Velocity)",
+      "report_num": "1393"
+    },
+    "841": {
+      "id": "841",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
+      "source": "pipeline",
+      "notes": "Hightouch | Enterprise Account Executive - East",
+      "report_num": "1394"
+    },
+    "842": {
+      "id": "842",
+      "url": "https://jobs.lever.co/spotify/1ff4a4e3-897c-4eab-9ee2-aa7d1d07a9d6",
+      "source": "pipeline",
+      "notes": "Spotify | Account Executive - Backstage",
+      "report_num": "1395"
+    }
+  }
+}

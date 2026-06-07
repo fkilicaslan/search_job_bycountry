@@ -1,0 +1,140 @@
+# Career-Ops Profile Configuration — Template
+#
+# HOW TO USE:
+#   Option A (recommended): run setup.mjs and it fills this for you.
+#     node setup.mjs --cv path/to/your_cv.pdf --country Germany
+#
+#   Option B: copy to config/profile.yml and fill in manually.
+#     cp config/profile.template.yml config/profile.yml
+#
+# This file is the single source of truth for your personal data.
+# All modes read from it — never hardcode your details elsewhere.
+# It lives in config/ (gitignored) so your data never ships with the repo.
+
+# ── Identity ─────────────────────────────────────────────────────────────────
+
+candidate:
+  full_name: "Your Full Name"
+  email: "you@example.com"
+  phone: "+49-000-000-0000"          # include country code
+  location: "Berlin, Germany"        # city, country — used in cover letters
+  linkedin: "linkedin.com/in/yourhandle"
+  portfolio_url: ""                  # optional — personal site, GitHub profile, etc.
+  github: ""                         # optional
+  twitter: ""                        # optional
+
+# ── Target roles ─────────────────────────────────────────────────────────────
+
+target_roles:
+  # Your North Star titles — what you're optimizing for.
+  # setup.mjs infers these from your CV; edit freely afterwards.
+  primary:
+    - "Senior Account Executive"
+    - "Head of Business Development"
+  # Archetypes group roles by theme for scoring and framing.
+  # fit: primary = dream role | secondary = good fit | adjacent = stretch
+  archetypes:
+    - name: "Enterprise Sales"
+      level: "Senior/Principal"
+      fit: "primary"
+    - name: "Business Development"
+      level: "Director/Head"
+      fit: "primary"
+    - name: "Partnerships & Alliances"
+      level: "Senior/Director"
+      fit: "secondary"
+    - name: "GTM / Country Lead"
+      level: "Senior"
+      fit: "adjacent"
+
+# ── Narrative ─────────────────────────────────────────────────────────────────
+
+narrative:
+  # One-line headline for CV summaries and cover letter openers.
+  headline: "Enterprise B2B sales leader with 12+ years in DACH / EMEA markets"
+
+  # Your exit/transition story — what makes you distinctive.
+  # Used in cover letters, STAR stories, application form free-text answers.
+  exit_story: ""
+
+  # 3–5 non-generic superpowers. Be specific — metrics > adjectives.
+  superpowers:
+    - "New-logo hunting in DACH enterprise (quota attainment 145 %)"
+    - "Partner-led GTM from zero to €1 M ARR"
+    - "Fluent English + German in executive-level negotiation"
+
+  # Proof points that can be cited in cover letters and eval reports.
+  # hero_metric should be the single strongest number.
+  proof_points:
+    - name: ""
+      url: ""
+      hero_metric: ""
+
+# ── Compensation ──────────────────────────────────────────────────────────────
+
+compensation:
+  # Express as a range so the eval system can score comp fit.
+  target_range: "€90 000–120 000 OTE"
+  currency: "EUR"                    # EUR | USD | GBP | CHF | SEK | …
+  minimum: "€75 000 OTE"            # your walk-away number
+  # How flexible are you on structure?
+  notes: "Open to base + commission split; equity considered for early-stage"
+
+# ── Location ──────────────────────────────────────────────────────────────────
+
+location:
+  country: "Germany"                 # used by setup.mjs to pick Indeed domain + board locations
+  city: "Berlin"
+  timezone: "CET"                    # IANA or common abbreviation
+  # "EU Blue Card", "German work permit", "No sponsorship needed", "Open to relocation"
+  visa_status: "EU Blue Card"
+  # Onsite flexibility for roles outside your base city / country.
+  onsite_availability: "Occasional travel, up to 20 %"
+  relocation_open: false             # true if you would move for the right role
+
+# ── Languages ─────────────────────────────────────────────────────────────────
+
+languages:
+  # CEFR levels: A1/A2/B1/B2/C1/C2/Native
+  - language: "English"
+    level: "C2"
+    notes: "Business fluent, daily working language"
+  - language: "German"
+    level: "C1"
+    notes: "Professional proficiency"
+  - language: "Turkish"
+    level: "Native"
+
+# ── Work preferences ──────────────────────────────────────────────────────────
+
+preferences:
+  # remote | hybrid | onsite | any
+  work_arrangement: "hybrid"
+  # minimum days remote per week (used in scoring)
+  min_remote_days: 2
+  # deal-breakers — any of these in a JD → score penalty
+  deal_breakers:
+    - "Native German required"
+    - "Full-time on-site, no flexibility"
+    - "No base salary (commission-only)"
+  # nice-to-haves — positive signal, not required
+  nice_to_haves:
+    - "Series A–C stage"
+    - "AI or data platform"
+    - "Strong partner ecosystem"
+
+# ── CV output ─────────────────────────────────────────────────────────────────
+
+cv:
+  # "html" uses templates/cv-template.html; "latex" uses templates/cv-template.tex
+  output_format: "html"
+  # (Optional) Canva design ID for visual CV.
+  # Find it in your Canva URL: https://www.canva.com/design/DAxxxxxxx/...
+  # canva_resume_design_id: "DAxxxxxxxxx"
+
+# ── Language modes ────────────────────────────────────────────────────────────
+
+language:
+  # Which modes directory to use for evaluations and cover letters.
+  # "modes" = English (default) | "modes/de" = German | "modes/fr" = French
+  modes_dir: "modes"
