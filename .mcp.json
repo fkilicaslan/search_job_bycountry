@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cdp": {
+      "command": "node",
+      "args": ["career-ops/mcp-cdp.mjs"],
+      "env": {
+        "CDP_HOST": "localhost:9222"
+      }
+    }
+  }
+}
